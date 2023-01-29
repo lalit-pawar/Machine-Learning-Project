@@ -21,13 +21,13 @@ Mchine Learning -- Machine learning is the process of making systems that learn 
                   
                  
  Machine Learning Steps -- 
- 1 Collecting Data 
- 2 Preparing the Data
- 3 Choosing a Model
- 4 Training the Model
- 5 Evaluating the Model
- 6 Parameter Tuning
- 7 Making Predictions 
+                1 Collecting Data 
+                2 Preparing the Data
+                3 Choosing a Model
+                4 Training the Model
+                5 Evaluating the Model
+                6 Parameter Tuning
+                7 Making Predictions 
  
  
  
